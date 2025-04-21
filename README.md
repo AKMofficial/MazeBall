@@ -2,7 +2,7 @@
 
 ## Overview
 Maze Ball is a 3D maze game built with Unity and C#. Guide the ball through challenging mazes, and avoid walls to reach the goal.
-> **Note:** This project participated in Game Box bootcamp and won 3rd place among participants.
+> **Note:** This project participated in Game Box bootcamp and won 3rd place among participants (January 2023).
 
 ## Getting Started
 1. **Clone or Download** the repository:
